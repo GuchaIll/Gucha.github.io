@@ -9,6 +9,7 @@ html {
   font-family: 'Inconsolata', monospace;
   text-align: justify;
   background-color: hsl(230 35% 7%);
+  color: hsl(0 0% 100%);
   --green: #775f76;
   --gold: #ffffff;
   --brown: #b0b0b0;
